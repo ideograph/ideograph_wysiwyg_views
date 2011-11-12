@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Ideograph wysiwyg views feature.
+ */
+
+include_once('ideograph_wysiwyg_views.features.inc');
